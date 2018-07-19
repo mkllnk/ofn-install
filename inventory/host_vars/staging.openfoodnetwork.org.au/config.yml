@@ -1,0 +1,10 @@
+---
+
+domain: staging.openfoodnetwork.org.au
+rails_env: staging
+
+admin_email: maikel@openfoodnetwork.org.au
+
+mail_domain: "smtp.gmail.com"
+
+unicorn_timeout: 120
