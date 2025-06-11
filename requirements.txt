@@ -1,5 +1,11 @@
-# Ansible community package
-# https://github.com/ansible-community/ansible-build-data
+# The pyenv virtual environment is tagged with the Python version and
+# the Ansible version. Please update it after changing anything here.
+#
+# Python release information:
+# - https://www.python.org/downloads/
+#
+# Ansible community package release changes:
+# - https://docs.ansible.com/ansible/devel/porting_guides/porting_guides.html
 ansible==9.13.0
 
 ansible-lint==6.22.2
